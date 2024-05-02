@@ -1,1 +1,3 @@
-# GEV4320StoryMaps
+# GEV 4320/8320: GIS for Conservation Management Story Maps Final Projects
+
+This website features ArcGIS Story Maps from Professor Jennifer Santoro’s GEV 4320/8320: GIS for Conservation Management course at Villanova University. Offered every spring semester, students in Professor Santoro’s course use GIS skills to perform spatial analyses centered around conserving endangered species. These analyses include modeling species habitat, assessing connectivity between habitat patches, and selecting the best locations for preserves. For their final class projects, students create Esri Story Maps to tell compelling and immersive stories about these endangered species and identify where conservation actions should be prioritized.

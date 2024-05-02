@@ -9,7 +9,7 @@
         }
 
         private function get_data(){
-                $data = file_get_contents('https://sheets.googleapis.com/v4/spreadsheets/1ZaufrGyHAfQVwJPbkneBe9mfBsuBwsOvtREBP9PFRL4/values/Sheet1?key=AIzaSyDYEdz0bcXmVlqLYY0z_qSWzXhZTGLUo6w');
+                $data = file_get_contents('');
                 $json =  json_decode($data);
                 return $json->values;
 
